@@ -1,5 +1,3 @@
-/*Kulkarni Sammrudhi Sunil
- * B24CE1125 */
 #include<iostream>
 using namespace std;
 
