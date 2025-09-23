@@ -11,7 +11,6 @@ int main() {
     int arr[n];
     int h_val[n]; 
     while(1) {
-
 cout<<"Enter '1' to add clients and '0' to Exit:";
 cin>>s;
     if (s=='1'){ 
