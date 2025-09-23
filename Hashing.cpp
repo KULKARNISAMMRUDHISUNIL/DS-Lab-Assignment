@@ -1,8 +1,6 @@
 #include <iostream>
 using namespace std;
 int main() {
-	cout<<"Kulkarni Sammrudhi Sunil\n";
-	cout<<"B24CE1125\n";
     int n,m;
     char s;
     cout << "Enter number of servers: ";
