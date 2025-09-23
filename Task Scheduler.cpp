@@ -29,7 +29,6 @@ public:
 };
 
 int main() {
-    cout<<"NAME: Sammrudhi Kulkarni\nPRN: B24CE1125\n";
     Node* head = NULL;
     int n;
     string tn;
