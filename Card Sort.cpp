@@ -26,7 +26,6 @@ int main()
         {
             cout << card[k] << "\t";
         }
-
         }
     }
     cout<<"\n sorted cards are: ";
