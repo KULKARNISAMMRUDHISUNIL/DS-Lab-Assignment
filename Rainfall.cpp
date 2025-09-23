@@ -13,7 +13,6 @@ int main() {
         }
     }
 
-
     cout << "\nRAINFALL DATA (in mm)\n";
     cout << "===============================================================================\n";
     cout << "City\\Month\tMonth1\tMonth2\tMonth3\tMonth4\n";
