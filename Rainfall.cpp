@@ -6,7 +6,7 @@ int main() {
 
     
     for (int c = 0; c < 3; c++) {
-        cout << "Enter Temperature data for City (in mm) " << c + 1 << ":\n";
+        cout << "Enter Rainfall data for City (in mm) " << c + 1 << ":\n";
         for (int m = 0; m < 4; m++) {
             cout << "  Month " << m + 1 << ": ";
             cin >> rainfall[c][m];
