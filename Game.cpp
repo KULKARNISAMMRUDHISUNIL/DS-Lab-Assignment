@@ -2,8 +2,6 @@
 using namespace std;
 int main()
 {
-	cout<<"Kulkarni Sammrudhi Sunil\n";
-	cout<<"PRN:B24CE1125\n";
 int i,n;
 cout<<"Enter number of rounds: ";
 cin>>n;
