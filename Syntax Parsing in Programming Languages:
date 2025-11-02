@@ -104,5 +104,4 @@ string stack::InfixToPostfixConversion(string ex){
   string op_exp=s.InfixToPostfixConversion(ex);
   cout<<"\n Postfix Expression is: "<<op_exp;
   return 0;
-	 
-   }
+	 }
